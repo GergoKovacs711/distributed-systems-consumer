@@ -1,0 +1,12 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       targetNamespace="http://miskolc.uni.iit.hu/kovacsgergo/distributedsystemsconsumer"
+                       elementFormDefault="qualified">
+
+                <xs:complexType name="ExchangeRate">
+                    <xs:sequence>
+                        <xs:element name="name" type="xs:string"/>
+                        <xs:element name="code" type="xs:string"/>
+                        <xs:element name="rate" type="xs:double"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:schema>

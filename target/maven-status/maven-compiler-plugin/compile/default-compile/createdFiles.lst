@@ -1,3 +1,9 @@
-hello\Application$1.class
-hello\Application.class
-hello\Rate.class
+consumer\Application$1.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemsconsumer\ExchangeRate.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemsdemo\model\generated\ExchangeRate.class
+consumer\Rate.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemsdemo\model\generated\ObjectFactory.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemsdemo\model\generated\package-info.class
+consumer\Application.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemsconsumer\ObjectFactory.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemsconsumer\package-info.class
