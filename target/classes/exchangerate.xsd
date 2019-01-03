@@ -1,6 +1,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-                       targetNamespace="http://miskolc.uni.iit.hu/kovacsgergo/distributedsystemsconsumer"
-                       elementFormDefault="qualified">
+                       targetNamespace="http://miskolc.uni.iit.hu/kovacsgergo/distributedsystemconsumer/model/generated"
+                       elementFormDefault="qualified"
+                       xmlns:toString="http://jaxb2-commons.dev.java.net/basic/toString">
 
                 <xs:complexType name="ExchangeRate">
                     <xs:sequence>

@@ -1,4 +1,4 @@
-package consumer;
+package hu.iit.uni.miskolc.kovacsgergo.distributedsystemconsumer.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

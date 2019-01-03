@@ -67,12 +67,11 @@
                 </executions>
                 <configuration>
                     <schemaDirectory>${project.basedir}/src/main/resources</schemaDirectory>
-                    <outputDirectory>${project.basedir}/src/main/java/consumer/generated</outputDirectory>
+                    <outputDirectory>${project.basedir}/src/main/java</outputDirectory>
                     <clearOutputDir>false</clearOutputDir>
                 </configuration>
             </plugin>
         </plugins>
-
         <finalName>restful-consumer</finalName>
     </build>
 </project>

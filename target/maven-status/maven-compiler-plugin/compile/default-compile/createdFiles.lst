@@ -1,9 +1,8 @@
-consumer\Application$1.class
-hu\iit\uni\miskolc\kovacsgergo\distributedsystemsconsumer\ExchangeRate.class
-hu\iit\uni\miskolc\kovacsgergo\distributedsystemsdemo\model\generated\ExchangeRate.class
-consumer\Rate.class
-hu\iit\uni\miskolc\kovacsgergo\distributedsystemsdemo\model\generated\ObjectFactory.class
-hu\iit\uni\miskolc\kovacsgergo\distributedsystemsdemo\model\generated\package-info.class
-consumer\Application.class
-hu\iit\uni\miskolc\kovacsgergo\distributedsystemsconsumer\ObjectFactory.class
-hu\iit\uni\miskolc\kovacsgergo\distributedsystemsconsumer\package-info.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\model\Rate.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\util\Util.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\model\generated\ObjectFactory.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\model\generated\package-info.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\util\exception\ApiError.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\model\generated\ExchangeRate.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\Application.class
+hu\iit\uni\miskolc\kovacsgergo\distributedsystemconsumer\Application$1.class
